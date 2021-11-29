@@ -2,6 +2,11 @@
 functions = "functions"
 
 [[redirects]]
+to = "/test14"
+from = "/test13"
+status = "301"
+
+[[redirects]]
 to = "/2"
 from = "/1"
 status = "301"
