@@ -2,6 +2,11 @@
 functions = "functions"
 
 [[redirects]]
+to = "/sdgfs"
+from = "/sdkfjh"
+status = "301"
+
+[[redirects]]
 to = "/br"
 from = "/d"
 status = "301"
