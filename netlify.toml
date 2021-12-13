@@ -2,11 +2,6 @@
 functions = "functions"
 
 [[redirects]]
-to = "/asdjfg"
-from = "/asdklfhgkjagh"
-status = "301"
-
-[[redirects]]
 to = "/sdygfiew"
 from = "/aghgsg"
 status = "301"
