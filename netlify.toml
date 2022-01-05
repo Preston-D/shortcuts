@@ -5,136 +5,2080 @@ functions = "functions"
 to = "/sdygfiew"
 from = "/aghgsg"
 status = "301"
+id = "61c57e25-589c-4dcc-844b-f5779a38ae82"
+mergeStatus = "LIVE"
 
 [[redirects]]
 to = "/asdfgk"
 from = "/lasd"
 status = "301"
+id = "fbe0f516-d77d-4115-a380-a17c4469e630"
+mergeStatus = "LIVE"
 
 [[redirects]]
 to = "/c"
 from = "/g"
 status = "301"
+id = "d78b2c62-c62b-45f7-b3c3-96dda1946852"
+mergeStatus = "LIVE"
 
 [[redirects]]
 to = "/s"
 from = "/f"
 status = "301"
+id = "70de9df6-e3b4-4ebe-8316-83e5574b8b53"
+mergeStatus = "LIVE"
 
 [[redirects]]
 to = "/s"
 from = "/s"
 status = "301"
+id = "faa26363-0366-41a8-a246-5ffb74d8df3f"
+mergeStatus = "LIVE"
 
 [[redirects]]
 to = "/sdgfs"
 from = "/sdkfjh"
 status = "301"
+id = "f90ded47-10a0-4777-b3f7-733af66a7647"
+mergeStatus = "LIVE"
 
 [[redirects]]
 to = "/br"
 from = "/d"
 status = "301"
+id = "203b1f79-02e2-4e8d-beec-118cd2c67912"
+mergeStatus = "LIVE"
 
 [[redirects]]
 to = "/fd"
 from = "/a"
 status = "301"
+id = "06ae2e8f-d15e-465a-ab55-480938ca65b4"
+mergeStatus = "LIVE"
 
 [[redirects]]
 to = "/asdjsf"
 from = "/afghsjkdlfh"
 status = "301"
+id = "f64e48a9-b581-4bfd-b843-c59634ce0909"
+mergeStatus = "LIVE"
 
 [[redirects]]
 to = "/mnb"
 from = "/gsdf"
 status = "301"
+id = "e7cdd1ce-2566-454d-8dcc-b0680bbe9672"
+mergeStatus = "LIVE"
 
 [[redirects]]
 to = "/sd"
 from = "/k"
 status = "301"
+id = "27fd15a9-a739-4f1e-ac10-f0ed9d051e73"
+mergeStatus = "LIVE"
 
 [[redirects]]
 to = "/ll"
 from = "/v"
 status = "301"
+id = "3edefc0b-9a3f-4f23-9e82-c220dc8b814c"
+mergeStatus = "LIVE"
 
 [[redirects]]
 to = "/n"
 from = "/s"
 status = "301"
+id = "bac3acf9-95f5-4b48-a90a-118ce29c6c32"
+mergeStatus = "LIVE"
 
 [[redirects]]
 to = "/test16"
 from = "/test15"
 status = "301"
+id = "52691bf3-09ba-476b-b3c6-b9607678afc1"
+mergeStatus = "LIVE"
 
 [[redirects]]
 to = "/test14"
 from = "/test13"
 status = "301"
+id = "38b0b994-2fb0-4397-a2d9-14ed374f4854"
+mergeStatus = "LIVE"
 
 [[redirects]]
 to = "/2"
 from = "/1"
 status = "301"
+id = "f1b9c32f-dcef-4aee-95d3-51525d4d12bd"
+mergeStatus = "LIVE"
 
 [[redirects]]
 to = "/b"
 from = "/a"
 status = "301"
+id = "e0fd1467-cb10-4765-9490-7e4c231ba2e7"
+mergeStatus = "LIVE"
 
 [[redirects]]
 to = "/test12"
 from = "/test11"
 status = "301"
+id = "5d23b7ec-6940-44d8-88f3-3e6ba7167050"
+mergeStatus = "LIVE"
 
 [[redirects]]
 to = "/test10"
 from = "/test9"
 status = "301"
+id = "d7768da3-dfe7-4b1a-8991-be6436f8036a"
+mergeStatus = "LIVE"
 
 [[redirects]]
 to = "/test8"
 from = "/test7"
 status = "301"
+id = "579407a9-7cb3-43b7-877d-998c3651029a"
+mergeStatus = "LIVE"
 
 [[redirects]]
 to = "/test6"
 from = "/test5"
 status = "301"
+id = "1c4340c8-6461-4606-bddc-a39d1a17790a"
+mergeStatus = "LIVE"
 
 [[redirects]]
 to = "/test4"
 from = "/test3"
 status = "301"
+id = "def0fc6c-942a-4cc7-b5fa-02a4b8dc8faf"
+mergeStatus = "LIVE"
 
 [[redirects]]
 to = "/test2"
 from = "/test"
 status = "301"
+id = "4cff1388-9542-4690-a7e4-3bc0e8149db9"
+mergeStatus = "LIVE"
 
 [[redirects]]
 to = "/pull2"
 from = "/pull"
 status = "301"
+id = "29f8f1f8-6fe0-4b97-bf3f-1bff7aff47ce"
+mergeStatus = "LIVE"
 
 [[redirects]]
 from = "/products/giftcard"
 to = "/products/e-giftcard"
 status = 301
+id = "317db544-45ac-4233-813a-5ad03a358a53"
+mergeStatus = "LIVE"
 
 [[redirects]]
 from = "/sizing"
 to = "/pages/sizing"
 status = 301
+id = "d6c30e64-7e27-4d96-83ee-0975f5481af6"
+mergeStatus = "LIVE"
 
 [[redirects]]
 from = "/reviews"
 to = "/pages/reviews"
 status = 301
+id = "38cfdce9-301e-40f5-8e6d-2cb23e82eb19"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/sdygfiew"
+from = "/aghgsg"
+status = "301"
+id = "2e4d55d6-8f40-440c-98a2-c5e58c1fae7b"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/asdfgk"
+from = "/lasd"
+status = "301"
+id = "9e230d16-e40c-4c98-b427-77e06cf8f837"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/c"
+from = "/g"
+status = "301"
+id = "2dd01b12-b452-41ae-affb-199fbfd0eca4"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/s"
+from = "/f"
+status = "301"
+id = "871d3a0c-f07c-475c-aa34-564c6d203d71"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/s"
+from = "/s"
+status = "301"
+id = "c7bd641f-54c9-4bed-903a-3c7c2c19639d"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/sdgfs"
+from = "/sdkfjh"
+status = "301"
+id = "6b31b01b-d004-434e-8f64-002013c3abe4"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/br"
+from = "/d"
+status = "301"
+id = "1972977c-bb7a-48fa-a7ed-8fb4a06ef5c2"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/fd"
+from = "/a"
+status = "301"
+id = "d8671aa5-935f-46f1-abbb-975d02b4733c"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/asdjsf"
+from = "/afghsjkdlfh"
+status = "301"
+id = "546d5535-ba3a-4162-8035-dbaf51cd046e"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/mnb"
+from = "/gsdf"
+status = "301"
+id = "4dcd18ba-bfc7-463d-a2b7-fb86d69d0f54"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/sd"
+from = "/k"
+status = "301"
+id = "84e1f50e-4ccd-4acc-a4b3-d882fc2976dd"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/ll"
+from = "/v"
+status = "301"
+id = "4d607c2f-b8d6-4eb6-8fb9-9188c007d1d6"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/n"
+from = "/s"
+status = "301"
+id = "3aed928c-5ca3-4308-a7a7-e614f72e8a15"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test16"
+from = "/test15"
+status = "301"
+id = "c41370e2-54e8-46d3-9c76-fdfbddcd756e"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test14"
+from = "/test13"
+status = "301"
+id = "ee20e3db-2b94-4a07-8a46-c3e7302da65f"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/2"
+from = "/1"
+status = "301"
+id = "9acae5b9-5c2f-4d61-bf5c-1dacd5229e40"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/b"
+from = "/a"
+status = "301"
+id = "86bf9bf7-0b2e-4954-a985-70b7b6e6d190"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test12"
+from = "/test11"
+status = "301"
+id = "1c0d2e4e-d7be-4695-ba5b-ff42447fdccc"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test10"
+from = "/test9"
+status = "301"
+id = "3a0d4167-f612-4948-aeb0-d13c6344dcde"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test8"
+from = "/test7"
+status = "301"
+id = "00acce28-15bd-4a84-bbe4-2b9843680a53"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test6"
+from = "/test5"
+status = "301"
+id = "2ab6407e-6043-4f7a-bde7-31a51da76407"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test4"
+from = "/test3"
+status = "301"
+id = "1c0513ce-4da1-41eb-b0ce-46e198c0f098"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test2"
+from = "/test"
+status = "301"
+id = "73d59858-dcb6-4f43-9372-d0389e501b5d"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/pull2"
+from = "/pull"
+status = "301"
+id = "77f3db43-8799-4a50-aada-0405ee904c83"
+mergeStatus = "LIVE"
+
+[[redirects]]
+from = "/products/giftcard"
+to = "/products/e-giftcard"
+status = 301
+id = "62b974c8-b0a7-432e-b946-fcc2e8dc1bd2"
+mergeStatus = "LIVE"
+
+[[redirects]]
+from = "/sizing"
+to = "/pages/sizing"
+status = 301
+id = "afd0f98d-39a8-4ab5-9193-4f63f94c46ef"
+mergeStatus = "LIVE"
+
+[[redirects]]
+from = "/reviews"
+to = "/pages/reviews"
+status = 301
+id = "9903256a-bdc5-43bc-b5e1-575cb9f1e0cd"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/sdygfiew"
+from = "/aghgsg"
+status = "301"
+id = "24f708ab-00d8-4da6-80b1-49d40e35a4f7"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/asdfgk"
+from = "/lasd"
+status = "301"
+id = "6c3772c8-4bd5-4e44-a2be-5c289888a158"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/c"
+from = "/g"
+status = "301"
+id = "1aa41257-2731-43f1-a8a0-3a0468f36bdb"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/s"
+from = "/f"
+status = "301"
+id = "c9e5e61c-7a4a-422b-b377-9a3fea28661d"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/s"
+from = "/s"
+status = "301"
+id = "45e7d3e3-d9ca-4541-930d-81b4f5379513"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/sdgfs"
+from = "/sdkfjh"
+status = "301"
+id = "2fcc2c39-9752-40fe-967f-6ae95a302d1a"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/br"
+from = "/d"
+status = "301"
+id = "e3f6c8b6-81b0-4208-89c5-e28b9e45ca4d"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/fd"
+from = "/a"
+status = "301"
+id = "528f304e-eaba-4953-923e-154e6be9228e"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/asdjsf"
+from = "/afghsjkdlfh"
+status = "301"
+id = "7a231722-e0a9-4acc-99f4-afaae1b1755e"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/mnb"
+from = "/gsdf"
+status = "301"
+id = "93799bf7-9e7c-4edd-8e6a-6b2c61d65200"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/sd"
+from = "/k"
+status = "301"
+id = "054f380f-ad93-4da1-b3f6-afbe0d27710b"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/ll"
+from = "/v"
+status = "301"
+id = "47e04991-6be3-41ab-9ab2-893fcc48f077"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/n"
+from = "/s"
+status = "301"
+id = "62d72865-f3a5-4361-a624-0e918ae3c5d5"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test16"
+from = "/test15"
+status = "301"
+id = "c1892c5a-2835-4b0a-9120-77e52cfc8172"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test14"
+from = "/test13"
+status = "301"
+id = "eb2d10ba-5fae-4c1d-96d8-3e87d6c9581b"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/2"
+from = "/1"
+status = "301"
+id = "c9a7f1b2-9607-4f9a-bfe1-e3e4c891e7b1"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/b"
+from = "/a"
+status = "301"
+id = "d2d3998d-e4f9-450d-b12e-44a5edb97014"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test12"
+from = "/test11"
+status = "301"
+id = "fdf87caa-27a6-44d9-b46d-7b9bee9a01f6"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test10"
+from = "/test9"
+status = "301"
+id = "87f60edc-73a3-48a0-8b71-255c1e8ff2f5"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test8"
+from = "/test7"
+status = "301"
+id = "5ff4524b-3f85-43e7-8f22-74c21fafcda0"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test6"
+from = "/test5"
+status = "301"
+id = "453b406a-df3b-4087-84b7-a45f932ad959"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test4"
+from = "/test3"
+status = "301"
+id = "f10044c2-db23-4981-a49e-3f78c9a23c94"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test2"
+from = "/test"
+status = "301"
+id = "c4592c75-f493-47d2-9b2c-14599ab781bf"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/pull2"
+from = "/pull"
+status = "301"
+id = "f5bf031e-b3d2-49a0-bd4c-64252ffbf096"
+mergeStatus = "LIVE"
+
+[[redirects]]
+from = "/products/giftcard"
+to = "/products/e-giftcard"
+status = 301
+id = "3f3083c0-5521-427e-a2a9-7938bae80c87"
+mergeStatus = "LIVE"
+
+[[redirects]]
+from = "/sizing"
+to = "/pages/sizing"
+status = 301
+id = "b80627d7-9589-4fbc-8198-7070df5169df"
+mergeStatus = "LIVE"
+
+[[redirects]]
+from = "/reviews"
+to = "/pages/reviews"
+status = 301
+id = "b38471da-a6e1-49d5-9958-4ad7074bba54"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/sdygfiew"
+from = "/aghgsg"
+status = "301"
+id = "d8d561c6-2543-405c-99f3-16359cacd98d"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/asdfgk"
+from = "/lasd"
+status = "301"
+id = "1a450f98-14f1-478c-9252-f83a8f0cb892"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/c"
+from = "/g"
+status = "301"
+id = "2f3d9d08-310e-4767-8a81-71cfcf2ce810"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/s"
+from = "/f"
+status = "301"
+id = "7f4548b1-d539-4047-8ef3-b374c3a3f506"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/s"
+from = "/s"
+status = "301"
+id = "0db4203a-a183-49ff-9056-d2df98fa1687"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/sdgfs"
+from = "/sdkfjh"
+status = "301"
+id = "b28e5c4e-0413-4143-a99f-86262e82533c"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/br"
+from = "/d"
+status = "301"
+id = "8cdb2344-b1cd-4c08-90f3-4b8dd8a7a3d2"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/fd"
+from = "/a"
+status = "301"
+id = "a2311fbb-738f-41f2-9908-0ed528b9ea98"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/asdjsf"
+from = "/afghsjkdlfh"
+status = "301"
+id = "1a3fa903-fa1a-44d2-b8b6-ad8a85d6e999"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/mnb"
+from = "/gsdf"
+status = "301"
+id = "d7590130-9e09-48f7-ac23-38664a3514fb"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/sd"
+from = "/k"
+status = "301"
+id = "64dbf76c-7d45-4364-abbb-fc5457e83079"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/ll"
+from = "/v"
+status = "301"
+id = "53e7f2eb-c93b-4823-8ddf-41fd230cf619"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/n"
+from = "/s"
+status = "301"
+id = "992fbe2f-94b3-41aa-a04b-145a90c0e5ec"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test16"
+from = "/test15"
+status = "301"
+id = "09e2c559-176e-4728-ba20-4d05c0cd07dc"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test14"
+from = "/test13"
+status = "301"
+id = "40a6bd86-835f-4ec2-8133-b369a57c5576"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/2"
+from = "/1"
+status = "301"
+id = "428164c1-c1da-4901-9691-b3a6f3f8240c"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/b"
+from = "/a"
+status = "301"
+id = "46a54923-235e-4902-9b40-56a605c44dee"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test12"
+from = "/test11"
+status = "301"
+id = "d8f1d9cf-e9a8-4a48-8bea-bfc12bb4c12c"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test10"
+from = "/test9"
+status = "301"
+id = "4071ee4f-d176-42a6-b62c-e6c2f28ad089"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test8"
+from = "/test7"
+status = "301"
+id = "48db613a-994b-4887-b971-5c2fa67ab4d3"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test6"
+from = "/test5"
+status = "301"
+id = "99bbf458-6447-4d0d-adc9-e19bcc89ef19"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test4"
+from = "/test3"
+status = "301"
+id = "d94fa372-c088-4fe3-af52-fab7f01418c1"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test2"
+from = "/test"
+status = "301"
+id = "62cf8bf7-151d-47eb-8967-8cc596b8b0f2"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/pull2"
+from = "/pull"
+status = "301"
+id = "62fc818a-78fa-433c-aedc-6d9bfccac515"
+mergeStatus = "LIVE"
+
+[[redirects]]
+from = "/products/giftcard"
+to = "/products/e-giftcard"
+status = 301
+id = "1989bf1c-183f-4105-8e8e-4b0ad0b30566"
+mergeStatus = "LIVE"
+
+[[redirects]]
+from = "/sizing"
+to = "/pages/sizing"
+status = 301
+id = "852732de-9800-4d3c-bbe9-d8cacb563c94"
+mergeStatus = "LIVE"
+
+[[redirects]]
+from = "/reviews"
+to = "/pages/reviews"
+status = 301
+id = "5aed04c3-f078-4090-8c36-e61b19ed4bbd"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/sdygfiew"
+from = "/aghgsg"
+status = "301"
+id = "239db77e-d567-4d59-9d8f-757b44e5e279"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/asdfgk"
+from = "/lasd"
+status = "301"
+id = "52e9d24e-4a08-4206-8134-7a1a4d459633"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/c"
+from = "/g"
+status = "301"
+id = "a131dd71-ed19-4849-8bd1-afad244d396f"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/s"
+from = "/f"
+status = "301"
+id = "6eabc126-5f02-4234-9eaf-11485903b0e4"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/s"
+from = "/s"
+status = "301"
+id = "3e338607-9068-41c8-af3a-dd2be828c30e"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/sdgfs"
+from = "/sdkfjh"
+status = "301"
+id = "4943998e-a671-40b4-861f-029db781e8ff"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/br"
+from = "/d"
+status = "301"
+id = "70f7a4bb-07c0-4254-93f6-010869185fa6"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/fd"
+from = "/a"
+status = "301"
+id = "7ab0c0cf-75b4-4efe-a6ce-e57612749df0"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/asdjsf"
+from = "/afghsjkdlfh"
+status = "301"
+id = "b4bc05df-2928-47bd-a585-2c4e50f53cc0"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/mnb"
+from = "/gsdf"
+status = "301"
+id = "c8ed715b-fff9-479c-a2bf-408ad5ad5427"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/sd"
+from = "/k"
+status = "301"
+id = "9b1d2933-edb0-4d7d-bac5-e27c8da6a8d7"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/ll"
+from = "/v"
+status = "301"
+id = "62d91c7d-04d2-4458-b4aa-7327013667bd"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/n"
+from = "/s"
+status = "301"
+id = "c0e3c06c-b5d0-4549-9bfc-f52301f9f5bc"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test16"
+from = "/test15"
+status = "301"
+id = "32947368-4f58-4799-8ef2-ad40e19d7937"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test14"
+from = "/test13"
+status = "301"
+id = "e9cfb07d-0bba-4f76-aad5-6abe7dc63877"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/2"
+from = "/1"
+status = "301"
+id = "0cc19bc3-ae1a-4de0-ae2f-a23c79292064"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/b"
+from = "/a"
+status = "301"
+id = "a4897b95-8f65-4fc3-94f9-7a0047fe5f44"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test12"
+from = "/test11"
+status = "301"
+id = "13b07558-c2f5-4b67-8ffc-2154e512962c"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test10"
+from = "/test9"
+status = "301"
+id = "b25646f6-6685-4d66-bd2d-6baf0b5f2fbf"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test8"
+from = "/test7"
+status = "301"
+id = "fe0c0c2e-c058-4629-a999-f91198e57ba3"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test6"
+from = "/test5"
+status = "301"
+id = "cc6b7a95-c068-46ee-881e-850455de6ecf"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test4"
+from = "/test3"
+status = "301"
+id = "4f660181-9f78-4778-ad71-402a91572cd5"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test2"
+from = "/test"
+status = "301"
+id = "5c3a2700-431c-47df-9868-4522735b8437"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/pull2"
+from = "/pull"
+status = "301"
+id = "f8b16054-1b87-4019-9a31-32f04cc1966c"
+mergeStatus = "LIVE"
+
+[[redirects]]
+from = "/products/giftcard"
+to = "/products/e-giftcard"
+status = 301
+id = "ca5807e9-c991-4288-a4f8-283ec81e0557"
+mergeStatus = "LIVE"
+
+[[redirects]]
+from = "/sizing"
+to = "/pages/sizing"
+status = 301
+id = "e15bc303-4aa0-49bb-a162-09eea365bf0f"
+mergeStatus = "LIVE"
+
+[[redirects]]
+from = "/reviews"
+to = "/pages/reviews"
+status = 301
+id = "43baf3d4-b6c0-4e12-ad83-44640c0f8583"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/sdygfiew"
+from = "/aghgsg"
+status = "301"
+id = "ed185f40-d327-48a2-8592-4c724cc7e57c"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/asdfgk"
+from = "/lasd"
+status = "301"
+id = "c45bd444-42cc-4002-9f8f-6fde00692822"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/c"
+from = "/g"
+status = "301"
+id = "92dd3efa-60d1-4150-83b4-386c9d219faf"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/s"
+from = "/f"
+status = "301"
+id = "a521ebb4-a540-4f36-bb34-aaafbc7cb6e8"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/s"
+from = "/s"
+status = "301"
+id = "c85d7905-064f-4358-91e8-79e36227be89"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/sdgfs"
+from = "/sdkfjh"
+status = "301"
+id = "6a5584e2-770a-4ae0-a20a-c51a1ecaba35"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/br"
+from = "/d"
+status = "301"
+id = "4b4c5b10-415d-4a8a-b1f1-6deec1181ef0"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/fd"
+from = "/a"
+status = "301"
+id = "62e4d87b-23a7-4565-ab47-e6c859320083"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/asdjsf"
+from = "/afghsjkdlfh"
+status = "301"
+id = "53068d62-fcc3-4d7b-92a6-a3f856bb8e96"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/mnb"
+from = "/gsdf"
+status = "301"
+id = "50ca22d3-d1cb-4a1f-9c08-eafc0258c01d"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/sd"
+from = "/k"
+status = "301"
+id = "d93a0105-ac8e-44d3-93c9-02e266cd351e"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/ll"
+from = "/v"
+status = "301"
+id = "ece06cd6-a861-450e-b049-3bbe49ce276a"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/n"
+from = "/s"
+status = "301"
+id = "47ae6580-7896-413f-a4d6-cf5d8c588547"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test16"
+from = "/test15"
+status = "301"
+id = "f727a92b-fa60-4617-b3cd-0000a58b810c"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test14"
+from = "/test13"
+status = "301"
+id = "f5e2f907-c140-4c60-9aa9-5390f33c661d"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/2"
+from = "/1"
+status = "301"
+id = "4514f6aa-9202-4992-9e72-32e05c7cc79d"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/b"
+from = "/a"
+status = "301"
+id = "586358b0-4e1d-4af3-a10d-65303a4cfdb2"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test12"
+from = "/test11"
+status = "301"
+id = "a44389c1-673f-4f07-8621-5af751347bb9"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test10"
+from = "/test9"
+status = "301"
+id = "62d4a5f8-76c4-4e57-ad42-933176fe2534"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test8"
+from = "/test7"
+status = "301"
+id = "b49fae54-f3e4-4054-a27a-4a5712153e7b"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test6"
+from = "/test5"
+status = "301"
+id = "48b107fa-c7ab-4f35-806a-80694946bd84"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test4"
+from = "/test3"
+status = "301"
+id = "0a19710e-0f07-4d0a-abd1-218e9bfa2dbb"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test2"
+from = "/test"
+status = "301"
+id = "26de114d-10e5-4bb0-8a9b-95c4e78edcdc"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/pull2"
+from = "/pull"
+status = "301"
+id = "af1a8905-58fe-4b42-8ac6-d212a4363773"
+mergeStatus = "LIVE"
+
+[[redirects]]
+from = "/products/giftcard"
+to = "/products/e-giftcard"
+status = 301
+id = "d45b5eb1-8884-4e68-a04e-4442184308bf"
+mergeStatus = "LIVE"
+
+[[redirects]]
+from = "/sizing"
+to = "/pages/sizing"
+status = 301
+id = "53344d28-b22d-44a2-a0db-5ce2ed826ea3"
+mergeStatus = "LIVE"
+
+[[redirects]]
+from = "/reviews"
+to = "/pages/reviews"
+status = 301
+id = "94301037-0749-4f41-a546-f3f82e9388dc"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/sdygfiew"
+from = "/aghgsg"
+status = "301"
+id = "845d6fce-5e1b-49ab-b8d2-7bd7f58fc8ea"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/asdfgk"
+from = "/lasd"
+status = "301"
+id = "93e67f5e-18f6-4078-a67d-47a02319241b"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/c"
+from = "/g"
+status = "301"
+id = "2ae0a500-5af0-4c88-a310-d7746e0db86d"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/s"
+from = "/f"
+status = "301"
+id = "bff11a87-13e8-4969-af90-4b9538274cfc"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/s"
+from = "/s"
+status = "301"
+id = "8dc03297-cc3a-48de-8959-8155784001b1"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/sdgfs"
+from = "/sdkfjh"
+status = "301"
+id = "01fb52f7-80cd-4410-af37-6487349d9618"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/br"
+from = "/d"
+status = "301"
+id = "e38669ec-d52e-433b-ac87-498c25202df6"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/fd"
+from = "/a"
+status = "301"
+id = "20e576a8-b02f-4755-ad97-3de39732ae27"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/asdjsf"
+from = "/afghsjkdlfh"
+status = "301"
+id = "1101db42-2d17-4808-a519-e65d5748ae5d"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/mnb"
+from = "/gsdf"
+status = "301"
+id = "a3c3ed98-73fc-4c51-ba00-71829747e793"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/sd"
+from = "/k"
+status = "301"
+id = "59aa2aa6-48c4-4b6f-89e8-bf708848aa68"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/ll"
+from = "/v"
+status = "301"
+id = "5b5a6b9a-7790-4b84-ae47-7c82e5449ed0"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/n"
+from = "/s"
+status = "301"
+id = "9c82882e-8b93-47c7-b661-d26709616500"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test16"
+from = "/test15"
+status = "301"
+id = "c9838411-0b9e-4906-b186-d9fc8e14836a"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test14"
+from = "/test13"
+status = "301"
+id = "57574147-e54a-42d2-9f6e-9f09f17158fb"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/2"
+from = "/1"
+status = "301"
+id = "34baf611-1fe0-41d1-adcb-f5e53e386571"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/b"
+from = "/a"
+status = "301"
+id = "5f14b741-bd38-4be4-a4a6-d4830f5b16da"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test12"
+from = "/test11"
+status = "301"
+id = "81534cae-aebe-4d05-be74-75a008f890d1"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test10"
+from = "/test9"
+status = "301"
+id = "c5cdbd5c-881c-4bd5-81c7-76071fb118cb"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test8"
+from = "/test7"
+status = "301"
+id = "64aa003e-bbfb-4d0b-951a-498d26f48166"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test6"
+from = "/test5"
+status = "301"
+id = "7a3531db-718f-4349-8382-817a996c1710"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test4"
+from = "/test3"
+status = "301"
+id = "dabc20d4-8dc4-4e17-8339-2f4d296c71f0"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test2"
+from = "/test"
+status = "301"
+id = "1a677425-543c-4dbc-9d7f-02256acdd074"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/pull2"
+from = "/pull"
+status = "301"
+id = "760fc27c-bda8-4187-ad8b-5daa5190131c"
+mergeStatus = "LIVE"
+
+[[redirects]]
+from = "/products/giftcard"
+to = "/products/e-giftcard"
+status = 301
+id = "40dc43bc-039f-438e-a76e-6390c4c42bc0"
+mergeStatus = "LIVE"
+
+[[redirects]]
+from = "/sizing"
+to = "/pages/sizing"
+status = 301
+id = "8be33681-24be-4c44-9e18-544868556389"
+mergeStatus = "LIVE"
+
+[[redirects]]
+from = "/reviews"
+to = "/pages/reviews"
+status = 301
+id = "b8d292ea-7b6c-41fd-abda-e7adcfc132fe"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/sdygfiew"
+from = "/aghgsg"
+status = "301"
+id = "4f15f694-f227-4516-b328-d3e76ce32741"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/asdfgk"
+from = "/lasd"
+status = "301"
+id = "88456363-e0d6-4217-82b7-98cece7c0bb7"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/c"
+from = "/g"
+status = "301"
+id = "83501da6-47be-42e8-b057-7c5c63f93d6d"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/s"
+from = "/f"
+status = "301"
+id = "a0a9fd6b-5bcc-49b9-91fe-30ea4521a785"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/s"
+from = "/s"
+status = "301"
+id = "007bfe88-5220-4606-9c1f-c8eebf4510d5"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/sdgfs"
+from = "/sdkfjh"
+status = "301"
+id = "d4489258-a973-4a04-8e3c-f6a13b8a394e"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/br"
+from = "/d"
+status = "301"
+id = "074f9e74-5067-4e2b-ad76-851439f706fc"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/fd"
+from = "/a"
+status = "301"
+id = "d677b52f-4c8d-45f4-b3f2-34f1eed12a84"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/asdjsf"
+from = "/afghsjkdlfh"
+status = "301"
+id = "167dc972-f419-4281-afed-66ec5c0c6bb0"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/mnb"
+from = "/gsdf"
+status = "301"
+id = "23f55424-b72e-4ee0-88fa-eddc135bb4e0"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/sd"
+from = "/k"
+status = "301"
+id = "ef028137-6287-44ed-81cc-65a6d31f35f9"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/ll"
+from = "/v"
+status = "301"
+id = "5b9cdd7b-7bf8-4e53-b48b-3efd4558cc7e"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/n"
+from = "/s"
+status = "301"
+id = "1b6713ba-e6ee-430a-aa61-9f209d77bf3f"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test16"
+from = "/test15"
+status = "301"
+id = "0d83e9ef-0e76-441e-a520-3972d3f0eda7"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test14"
+from = "/test13"
+status = "301"
+id = "073499ad-35f7-4675-abb0-2bd176e5ce5c"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/2"
+from = "/1"
+status = "301"
+id = "18abf6cf-0df2-4932-be26-afab3a250a08"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/b"
+from = "/a"
+status = "301"
+id = "279096e1-9fcd-42d6-b5cc-cafce16d6799"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test12"
+from = "/test11"
+status = "301"
+id = "cff521fe-f74d-4a7f-a99a-fdd983d06d87"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test10"
+from = "/test9"
+status = "301"
+id = "8cc9b475-f6e8-47c7-8d30-5d10544c0769"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test8"
+from = "/test7"
+status = "301"
+id = "d3b54f2c-a99d-4792-8775-b7aca9c51fd5"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test6"
+from = "/test5"
+status = "301"
+id = "686da758-c270-48be-a0e7-0a0ad4d79067"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test4"
+from = "/test3"
+status = "301"
+id = "6e61b7d7-d303-46ee-962f-87941bf00298"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test2"
+from = "/test"
+status = "301"
+id = "6568cdd5-62e0-400b-b92e-d5e47600e47e"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/pull2"
+from = "/pull"
+status = "301"
+id = "d69a5ec9-f818-4fe0-b461-e602160d393c"
+mergeStatus = "LIVE"
+
+[[redirects]]
+from = "/products/giftcard"
+to = "/products/e-giftcard"
+status = 301
+id = "7f12913c-ca50-4c9a-9226-c7cb95dfa369"
+mergeStatus = "LIVE"
+
+[[redirects]]
+from = "/sizing"
+to = "/pages/sizing"
+status = 301
+id = "b17a6a97-bf73-47f3-8141-db3ae1f76a27"
+mergeStatus = "LIVE"
+
+[[redirects]]
+from = "/reviews"
+to = "/pages/reviews"
+status = 301
+id = "7cd99e2d-3b4f-4903-a4ed-94f3816211c7"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/sdygfiew"
+from = "/aghgsg"
+status = "301"
+id = "9589aacb-b31b-4ee0-ad2a-c55852472f99"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/asdfgk"
+from = "/lasd"
+status = "301"
+id = "b35f2ae5-e25d-4fff-a9ce-b89a927a6527"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/c"
+from = "/g"
+status = "301"
+id = "1ee7d8bc-9b19-4317-8038-67cb16ac679c"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/s"
+from = "/f"
+status = "301"
+id = "364e20f9-e975-43bd-ba10-0c95ce702bc4"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/s"
+from = "/s"
+status = "301"
+id = "9b22355c-d5ab-43d7-a62a-a1be0784ebd8"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/sdgfs"
+from = "/sdkfjh"
+status = "301"
+id = "a0d5c736-4eeb-4d22-9742-c5f4f21a8c5f"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/br"
+from = "/d"
+status = "301"
+id = "1c7e92d7-561b-48c8-9153-5caf28f6b7f5"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/fd"
+from = "/a"
+status = "301"
+id = "793026ef-6725-4ca6-b913-43c1d529f5a3"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/asdjsf"
+from = "/afghsjkdlfh"
+status = "301"
+id = "21c6c780-43f4-4230-969d-94c27cf66c87"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/mnb"
+from = "/gsdf"
+status = "301"
+id = "3a35ba53-ae1b-4634-b776-d2adada9cca1"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/sd"
+from = "/k"
+status = "301"
+id = "8c010e2a-2229-4a62-9278-a2cfe329da29"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/ll"
+from = "/v"
+status = "301"
+id = "786a66ce-e685-444f-a3e2-507abe30a960"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/n"
+from = "/s"
+status = "301"
+id = "6cc4083e-5b4b-435d-80fe-5dc1ea0b926b"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test16"
+from = "/test15"
+status = "301"
+id = "ac7abf6b-83bf-4ea6-b74a-af040b5736f3"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test14"
+from = "/test13"
+status = "301"
+id = "f3d81ade-4e20-4821-82a3-74e11b55b981"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/2"
+from = "/1"
+status = "301"
+id = "dfd1ca39-f612-40ac-9a2a-97d2631f423c"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/b"
+from = "/a"
+status = "301"
+id = "1ed3c76e-b10c-461e-bad3-047b2a6e2279"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test12"
+from = "/test11"
+status = "301"
+id = "28e05a0b-e5d2-43d9-a9f3-14b3db82b1ce"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test10"
+from = "/test9"
+status = "301"
+id = "2dfa4c36-a043-4a29-80f3-4ea37bf3efd1"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test8"
+from = "/test7"
+status = "301"
+id = "d87a3ed5-cbf1-4f70-b7dc-7a464abdeaf0"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test6"
+from = "/test5"
+status = "301"
+id = "ebb130f7-2ede-440b-9e50-4dfb1d76f201"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test4"
+from = "/test3"
+status = "301"
+id = "6e23151c-c57a-4bb5-863d-bb2b60233177"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test2"
+from = "/test"
+status = "301"
+id = "e6f87351-3d3e-4d7e-b486-252fe9dbf7d1"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/pull2"
+from = "/pull"
+status = "301"
+id = "51b27ab7-8174-4bb6-8e40-97ffda035fbe"
+mergeStatus = "LIVE"
+
+[[redirects]]
+from = "/products/giftcard"
+to = "/products/e-giftcard"
+status = 301
+id = "d564d48a-32a8-416e-85a3-b8d24ca427c5"
+mergeStatus = "LIVE"
+
+[[redirects]]
+from = "/sizing"
+to = "/pages/sizing"
+status = 301
+id = "53120e26-3248-4826-bf81-7cca175e58de"
+mergeStatus = "LIVE"
+
+[[redirects]]
+from = "/reviews"
+to = "/pages/reviews"
+status = 301
+id = "55ed3c58-346c-4429-a6cd-08ee91d17dab"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/sdygfiew"
+from = "/aghgsg"
+status = "301"
+id = "6b93a6aa-faed-4b6d-be81-87ef515473a9"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/asdfgk"
+from = "/lasd"
+status = "301"
+id = "5a346bf6-2abb-4567-9388-896961adf982"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/c"
+from = "/g"
+status = "301"
+id = "f9c085b3-c9df-42af-9c15-0ee329a745f9"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/s"
+from = "/f"
+status = "301"
+id = "34d47540-f26c-44aa-9176-b3124c517955"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/s"
+from = "/s"
+status = "301"
+id = "763f3995-4c4f-4b6c-8176-f5dc4f322086"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/sdgfs"
+from = "/sdkfjh"
+status = "301"
+id = "cbabe7a0-5f2f-47d9-af6c-58b633451b1e"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/br"
+from = "/d"
+status = "301"
+id = "8ba4a6db-c771-49ff-92d6-aae1dcfdb9bd"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/fd"
+from = "/a"
+status = "301"
+id = "4452890d-a0bd-47e3-9636-eab580e43dce"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/asdjsf"
+from = "/afghsjkdlfh"
+status = "301"
+id = "2446caec-662b-4baf-bf86-3024d6db6601"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/mnb"
+from = "/gsdf"
+status = "301"
+id = "bc3afe42-fd31-42a9-b589-2e72d3509518"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/sd"
+from = "/k"
+status = "301"
+id = "33735450-2715-4ec0-91f9-63d0e78afae2"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/ll"
+from = "/v"
+status = "301"
+id = "fc76d724-1bbb-412a-8902-0b57110982e7"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/n"
+from = "/s"
+status = "301"
+id = "1e5a4fe3-10ac-453d-9eb2-5fe678b93ae5"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test16"
+from = "/test15"
+status = "301"
+id = "8a04ae06-bce2-445e-b33d-daf9df057f1e"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test14"
+from = "/test13"
+status = "301"
+id = "e47c2586-bcb7-4a42-951b-104103871e02"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/2"
+from = "/1"
+status = "301"
+id = "ea8e6ee0-6207-4685-be3b-e7c511560105"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/b"
+from = "/a"
+status = "301"
+id = "72b84168-9736-4e59-b07c-a4d60db28791"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test12"
+from = "/test11"
+status = "301"
+id = "b587837a-ea74-4b3d-99e2-8a4458aeb337"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test10"
+from = "/test9"
+status = "301"
+id = "65b675b8-568c-4aa5-b628-d32bd0037a26"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test8"
+from = "/test7"
+status = "301"
+id = "27172df2-980a-42e7-b953-3c688580d5f1"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test6"
+from = "/test5"
+status = "301"
+id = "cb57ca2f-f134-4a12-b017-91f6bb9146bc"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test4"
+from = "/test3"
+status = "301"
+id = "1f0b8e87-f7cf-448d-a5e0-c3b5519ec430"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test2"
+from = "/test"
+status = "301"
+id = "337a5302-7b1c-4d5c-afd0-1c0190421b41"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/pull2"
+from = "/pull"
+status = "301"
+id = "9f5739c5-2ac5-4313-b024-2142be94be2e"
+mergeStatus = "LIVE"
+
+[[redirects]]
+from = "/products/giftcard"
+to = "/products/e-giftcard"
+status = 301
+id = "25023312-a4c4-43d8-8397-b49bad5c5d1b"
+mergeStatus = "LIVE"
+
+[[redirects]]
+from = "/sizing"
+to = "/pages/sizing"
+status = 301
+id = "7c3baed5-749c-4d08-b485-3486029fdf9a"
+mergeStatus = "LIVE"
+
+[[redirects]]
+from = "/reviews"
+to = "/pages/reviews"
+status = 301
+id = "7bb5f381-e937-4cd2-92f8-26fa09f8f867"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/sdygfiew"
+from = "/aghgsg"
+status = "301"
+id = "200a2f82-2fc1-4b1f-9ac3-3f589afe71fb"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/asdfgk"
+from = "/lasd"
+status = "301"
+id = "2c867ee3-767e-42c7-bb84-03f3ed7fd9bb"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/c"
+from = "/g"
+status = "301"
+id = "55c22b8b-bc3b-4ac6-8a5a-764797bfe713"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/s"
+from = "/f"
+status = "301"
+id = "935241b0-dd42-488c-8d7f-7f29109b6d26"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/s"
+from = "/s"
+status = "301"
+id = "beceabfc-2bb5-446c-8ef8-7191a02cac6f"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/sdgfs"
+from = "/sdkfjh"
+status = "301"
+id = "8253d839-61ed-487e-aa66-8f3a04819f2b"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/br"
+from = "/d"
+status = "301"
+id = "6e42e807-98d4-4cf1-9ad1-b896bcded010"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/fd"
+from = "/a"
+status = "301"
+id = "5518a7e8-9c8e-4b16-a1d7-797a5ab45a3d"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/asdjsf"
+from = "/afghsjkdlfh"
+status = "301"
+id = "d5000f7a-29f9-4222-a642-a7b9b1e038e5"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/mnb"
+from = "/gsdf"
+status = "301"
+id = "ea8d9edc-ea44-4a98-b75d-68777676c900"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/sd"
+from = "/k"
+status = "301"
+id = "ec06f6db-8cb4-450d-bf73-bb7f70daeb9f"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/ll"
+from = "/v"
+status = "301"
+id = "95adc4df-22ad-4acb-adc7-dc74b9dcae31"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/n"
+from = "/s"
+status = "301"
+id = "6629bf9b-c109-4cbd-92cf-95624e7ede8f"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test16"
+from = "/test15"
+status = "301"
+id = "08bab67e-b0cb-4e92-8774-f76a97d4557a"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test14"
+from = "/test13"
+status = "301"
+id = "55b8bfb6-a2a6-463c-8c65-6c8b75384267"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/2"
+from = "/1"
+status = "301"
+id = "135407fb-5a15-4424-bb8c-01af76bbc059"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/b"
+from = "/a"
+status = "301"
+id = "fc92f715-dc43-498a-83bb-5ec963d84b9d"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test12"
+from = "/test11"
+status = "301"
+id = "01b6f522-3715-4eed-a897-d96a491e6e05"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test10"
+from = "/test9"
+status = "301"
+id = "e0f38a9b-8f0e-489c-9b99-55238e5247d6"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test8"
+from = "/test7"
+status = "301"
+id = "eac67c79-69ef-4cd4-b8c8-da3cbf711b2c"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test6"
+from = "/test5"
+status = "301"
+id = "b9da49c4-f105-458c-97e3-67715bebdeec"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test4"
+from = "/test3"
+status = "301"
+id = "a12811a9-fa49-43b4-ae19-a35230991a19"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/test2"
+from = "/test"
+status = "301"
+id = "c0068927-78be-461b-b992-8cce3d7b7dfe"
+mergeStatus = "LIVE"
+
+[[redirects]]
+to = "/pull2"
+from = "/pull"
+status = "301"
+id = "01ab66e3-6544-4b7b-89aa-ee27f5044f0f"
+mergeStatus = "LIVE"
+
+[[redirects]]
+from = "/products/giftcard"
+to = "/products/e-giftcard"
+status = 301
+id = "2e00c34e-bbc0-4225-a862-0bfd1a1e63c5"
+mergeStatus = "LIVE"
+
+[[redirects]]
+from = "/sizing"
+to = "/pages/sizing"
+status = 301
+id = "17781ea5-2972-48bc-974f-3d5e71701a3b"
+mergeStatus = "LIVE"
+
+[[redirects]]
+from = "/reviews"
+to = "/pages/reviews"
+status = 301
+id = "0b8f8997-9c6d-450f-b7cd-3b249e7cb152"
+mergeStatus = "LIVE"
 
 [[plugins]]
 package = "@netlify/plugin-sitemap"
